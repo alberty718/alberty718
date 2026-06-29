@@ -1,8 +1,8 @@
 # Hi, I'm Albert 👋
 
-📚 Student at NUST MISIS, Moscow
+📚 Student at NUST MISIS
 
-🔍 Interested in **Data Engineering** — building pipelines, transforming data, making it useful
+🔍 Interested in **Data Engineering**
 
 ---
 
