@@ -1,6 +1,6 @@
 # Hi, I'm Albert 👋
 
-📚 Student at NUST MISIS
+🎓 CS student at NUST MISIS
 
 🔍 Interested in **Data Engineering**
 
