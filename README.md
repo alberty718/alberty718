@@ -2,7 +2,7 @@
 
 🎓 CS student at NUST MISIS
 
-🔍 Interested in **Data Engineering & Data Analytics**
+🔍 Interested in **Data Engineering**
 
 ---
 
